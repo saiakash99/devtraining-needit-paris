@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="DELETE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-20 09:44:50</sys_created_on>
+        <sys_id>46ca06122f60a01096b257ab2799b654</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0eca06122f60a01096b257ab2799b651</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_46ca06122f60a01096b257ab2799b654</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-20 09:44:50</sys_updated_on>
+    </sys_embedded_help_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2d6b1b2bdbf1d3888264f70fbf9619ee</instance_id>
+        <instance_name>dev58492</instance_name>
+        <name>sys_embedded_help_role_46ca06122f60a01096b257ab2799b654</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role/><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-20 09:44:50</sys_created_on><sys_id>46ca06122f60a01096b257ab2799b654</sys_id><sys_mod_count>0</sys_mod_count><sys_name>0eca06122f60a01096b257ab2799b651</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_embedded_help_role_46ca06122f60a01096b257ab2799b654</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-20 09:44:50</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+        <payload_hash>-1760828019</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>cb3d41612f20201096b257ab2799b6c7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-11-17 21:20:29</sys_created_on>
+        <sys_id>1ec966662f2ca01096b257ab2799b6bd</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>175d81495480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Embedded Help Role Priority</type>
+        <update_guid>dac96666d82ca010af3afbccc44560bd</update_guid>
+        <update_guid_history>dac96666d82ca010af3afbccc44560bd:-1760828019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-21 06:38:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_help_role">sys_embedded_help_role</sys_db_object>
+        <sys_id>9fdf8ddab5e0487e9a0dcdaddfff4599</sys_id>
+        <sys_metadata>46ca06122f60a01096b257ab2799b654</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0eca06122f60a01096b257ab2799b651</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_embedded_help_role_46ca06122f60a01096b257ab2799b654</sys_update_name>
+        <sys_update_version display_value="sys_embedded_help_role_46ca06122f60a01096b257ab2799b654">1ec966662f2ca01096b257ab2799b6bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-21 06:38:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
